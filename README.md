@@ -26,6 +26,7 @@ En la carpeta [soluciones](soluciones/) encontrarás los archivos JavaScript con
 ## Estructura del repositorio
 La estructura del repositorio es la siguiente:
 
+```bash
 |-- enunciados.md
 |-- soluciones
 |   |-- ejercicio1.js
@@ -35,6 +36,7 @@ La estructura del repositorio es la siguiente:
 |   |-- ejercicio5.js
 |-- index.html
 |-- README.md
+```
 
 ## Contribuciones
 Siéntete libre de contribuir a este repositorio agregando nuevos ejercicios, mejorando los existentes o corrigiendo errores. Simplemente realiza un fork del repositorio, realiza tus cambios y envía un pull request. Tu contribución será apreciada.
